@@ -170,5 +170,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# temp folder
+# temp folders
 temp/
+# cloned github repo
+the-algorithm/
