@@ -1,6 +1,4 @@
-langchain
-langchain_community
-langchain_core
-langchain_openai
+llama-index-vector-stores-deeplake
+llama-index
 deeplake
 jupyterlab
