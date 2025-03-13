@@ -174,3 +174,5 @@ cython_debug/
 temp/
 # cloned github repo
 the-algorithm/
+# created vector store
+vector_store_getting_started/

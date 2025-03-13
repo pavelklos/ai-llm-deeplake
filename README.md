@@ -7,3 +7,4 @@
 ## 02. Examples
 
 - **RAG Quickstart** `002-rag-quickstart.ipynb`
+- **RAG Tutorials** `003-rag-tutorials.ipynb`
