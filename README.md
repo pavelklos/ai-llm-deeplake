@@ -3,3 +3,7 @@
 ## 01. Setup
 
 - **Installation, User Authentication, Storage and Credentials** `001-setup.ipynb`
+
+## 02. Examples
+
+- **RAG Quickstart** `002-rag-quickstart.ipynb`
