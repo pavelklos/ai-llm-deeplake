@@ -12,3 +12,4 @@
   - **Vector Search Options**
     - **LangChain API** `004-rag-tutorials.ipynb`
     - **Deep Lake Vector Store API** `005-rag-tutorials.ipynb`
+    - **Managed Database REST API** `006-rag-tutorials.ipynb`
