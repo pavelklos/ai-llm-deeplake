@@ -11,3 +11,4 @@
   - **Vector Store Basics** `003-rag-tutorials.ipynb`
   - **Vector Search Options**
     - **LangChain API** `004-rag-tutorials.ipynb`
+    - **Deep Lake Vector Store API** `005-rag-tutorials.ipynb`
