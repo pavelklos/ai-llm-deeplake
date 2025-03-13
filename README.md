@@ -14,3 +14,4 @@
     - **Deep Lake Vector Store API** `005-rag-tutorials.ipynb`
     - **Managed Database REST API** `006-rag-tutorials.ipynb`
   - **Customizing Your Vector Store** `007-rag-tutorials.ipynb`
+  - **Image Similarity Search** `008-rag-tutorials.ipynb`
