@@ -15,3 +15,4 @@
     - **Managed Database REST API** `006-rag-tutorials.ipynb`
   - **Customizing Your Vector Store** `007-rag-tutorials.ipynb`
   - **Image Similarity Search** `008-rag-tutorials.ipynb`
+  - **Improving Search Accuracy using Deep Memory** `009-rag-tutorials.ipynb`
