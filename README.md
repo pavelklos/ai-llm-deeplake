@@ -6,7 +6,7 @@
 
 ## 02. Examples
 
-- **Deep Learning** [TODO:]
+- **Deep Learning** [**TODO**]
 - **RAG**
   - **RAG Quickstart** `002-rag-quickstart.ipynb`
   - **RAG Tutorials**
@@ -20,3 +20,4 @@
     - **Improving Search Accuracy using Deep Memory** `009-rag-tutorials.ipynb`
   - **LangChain Integration** `010-langchain.ipynb`
   - **LlamaIndex Integration** `011-llamaindex.ipynb`
+  - **Managed Tensor Database** `012-managed-tensor-database.ipynb`
