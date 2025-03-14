@@ -23,6 +23,7 @@
   - **Managed Tensor Database** `012-managed-tensor-database.ipynb`
   - **Deep Memory** `013-deep-memory.ipynb`
 - **Tensor Query Language (TQL)** `014-tql.ipynb`
+  - **TQL Syntax** `015-tql-syntax.ipynb`
 
 ## TEMP
 
