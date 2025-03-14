@@ -19,3 +19,4 @@
     - **Image Similarity Search** `008-rag-tutorials.ipynb`
     - **Improving Search Accuracy using Deep Memory** `009-rag-tutorials.ipynb`
   - **LangChain Integration** `010-langchain.ipynb`
+  - **LlamaIndex Integration** `011-llamaindex.ipynb`
