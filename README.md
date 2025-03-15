@@ -25,6 +25,7 @@
 - **Tensor Query Language (TQL)** `014-tql.ipynb`
   - **TQL Syntax** `015-tql-syntax.ipynb`
   - **Index for ANN Search** `016-tql-ann-index.ipynb`
+  - **Sampling Datasets** `017-tql-sampling-datasets.ipynb`
 
 ## TEMP
 
