@@ -27,6 +27,6 @@
   - **Index for ANN Search** `016-tql-ann-index.ipynb`
   - **Sampling Datasets** `017-tql-sampling-datasets.ipynb`
 
-## TEMP
+## 99. TEMP
 
-- **Examples** `999-examples.ipynb`
+- **Examples** `999-examples.ipynb` (Download dataset from DeepLake hub and save it locally)
